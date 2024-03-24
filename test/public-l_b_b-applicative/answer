@@ -1,0 +1,1 @@
+'((lambda (q) ((lambda (id) ((lambda (x) x) id)) ((lambda (y) y) (lambda (z) z)))) (lambda (q) ((lambda (id) ((lambda (x) x) id)) (lambda (z) z))) (lambda (q) ((lambda (id) id) (lambda (z) z))) (lambda (q) (lambda (z) z)))
